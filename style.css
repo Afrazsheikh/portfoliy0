@@ -693,11 +693,11 @@ footer span a:hover{
     
     .about .about-content .right a{
         display: inline-block;
-        background: linear-gradient(to left, #DC143C, rgb(10, 9, 9) 50%, rgb(14, 13, 13) 75%, #eee 75%);
+        background: linear-gradient(to left, #DC143C, rgb(10, 9, 9) 50%, rgb(14, 13, 13) 75%, #333 75%);
        
         font-size: 18px;
         margin: 0px;
-        border: 2px solid linear-gradient(to left, #333, #333 50%, #333 75%, #eee 75%);;
+        border: 2px solid linear-gradient(to left, #333, #333 50%, #333 75%, #333 75%);;
   
     }
 
