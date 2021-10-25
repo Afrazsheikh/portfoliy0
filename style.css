@@ -260,7 +260,7 @@ section .title::after{
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
-    margin-top: 20px;
+    
     border-radius: 6px;
     border: 2px solid linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);;
     padding: 0 5px;
@@ -689,6 +689,19 @@ footer span a:hover{
     .skills .skills-content .left .text{
         font-size: 19px;
     }
+
+    
+    .about .about-content .right a{
+        display: inline-block;
+        background: linear-gradient(to left, #DC143C, rgb(10, 9, 9) 50%, rgb(14, 13, 13) 75%, #eee 75%);
+       
+        font-size: 18px;
+        margin: 0px;
+        border: 2px solid linear-gradient(to left, #333, #333 50%, #333 75%, #eee 75%);;
+  
+    }
+
+
     .contact .right form .fields{
         flex-direction: column;
     }
@@ -699,6 +712,7 @@ footer span a:hover{
     .right form .error-box{
        width: 150px;
     }
+ 
     .scroll-up-btn{
         right: 15px;
         bottom: 15px;
